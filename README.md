@@ -1,28 +1,92 @@
-### Hi there 👋, my name is Ayush
-#### I am Owner Of Modsa Development
-I M 16 years Old Boy I Love To Do Coding And Programming. I Generally Make Discord Bot And Provide It To U
+<h2><img src="https://cdn.discordapp.com/attachments/1057664090429997156/1194052989976072254/namaste.png?ex=65aef381&is=659c7e81&hm=eba8778c93ddbf3988850589231e72015f929f97e38734ec6680734ff35a0d26" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
 
-Skills: Discord.js/ Node.js
+</em></p>
 
-- 🔭 I’m currently working on Manager Bot 
-- 🌱 I’m currently learning NodeJs Perfectly 
-- 😄 Pronouns: Ayu 
+### aboutMe.js
+
+```js
+const AboutMe = {
+    name: "Ayush",
+    pronouns: "he" | "him",
+    location: "भारत | INDIA",
+    role: "Backend Developer for now",
+    askMeAbout: ["development", "spiritual", "agriculture", "music",  "gaming"],
+    currentFocus: "Schooling But With Coding",
+    funFact: "One Of The Developer Who Don't Drink Coffee",
+    portfolio: "On the way",
+};
+```
+<h3 align="center">
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayushselfcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayushdangi006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCO3n5jkicyNy-3h2KDyXa4Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/vpmA3UUWbE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31srgoyqf4qk2vbipdonlmpu52ma)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushselfcoder)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushselfcoder)](https://github.com/anuraghazra/github-readme-stats)
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushselfcoder&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayushselfcoder)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ayushselfcoder)  
+  <a href="https://github.com/grdAyush">
+    <img src="https://komarev.com/ghpvc/?username=grdAyush">
+</a>
+<a href="https://github.com/grdAyush?tab=followers"><img src="https://img.shields.io/github/followers/grdAyush?label=Followers&style=social" alt="GitHub Badge"></a>
+  </h3>
+  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayushselfcoder)  
 
-![Profile views](https://gpvc.arturio.dev/Ayushselfcoder)  
+
+<h3 align="center">
+  🧑‍💻 Languages and Tools ⌨️
+  </p>
+<p align="center">
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
+    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" height="48"/> </a> 
+ <a href="https://xata.io/" target="_blank"> <img src="https://images.saasworthy.com/tr:w-178,h-0/xata_40802_logo_1667550917_ny7fp.jpg" width="48" height="48"/> </a> 
+ </p>
+
+
+
+<div align="center">
+	
+  | _**Github Stats**_ | _**Top Languages**_ |
+  | ----------- | ------------- |
+  | <img src="https://github-readme-stats.vercel.app/api?username=grdAyush&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=dark"/> |
+
+
+</div>
+<div align="center">
+
+# Current Philosophy
+
+</div>
+
+<p align="center">
+Find something popular, Copy it, Slap better things on it. Fun Fact This Markdown Is Also Copied From <a href="https://github.com/vishalcodez/">Vishal Codez</a>
+</p>
+
+<h3 align="center">Reach Me On Discord</h3>
+
+<p align="center">
+    <a href="https://discord.gg/HjnjsdSUWK" target="_blank">
+        <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1051806381461745664?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+    </a>
+    <a href="https://discord.gg/HjnjsdSUWK" target="_blank">
+        <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/773366371919593503?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+    </a>
+</p>
+
+
+
+
+
