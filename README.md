@@ -72,7 +72,7 @@ const AboutMe = {
 </div>
 
 <p align="center">
-Find something popular, Copy it, Slap better things on it. Fun Fact This Markdown Is Also Copied From <a href="https://github.com/vishalcodez/">Vishal Codez</a>
+Find something popular, Copy it, Slap better things on it.
 </p>
 
 <h3 align="center">Reach Me On Discord</h3>
