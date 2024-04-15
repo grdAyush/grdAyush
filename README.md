@@ -1,4 +1,4 @@
-<h2><img src="https://cdn.discordapp.com/attachments/1057664090429997156/1194052989976072254/namaste.png?ex=65aef381&is=659c7e81&hm=eba8778c93ddbf3988850589231e72015f929f97e38734ec6680734ff35a0d26" width="30"/> नमस्ते (Namaste) I'm Ayush <img 
+<h2> नमस्कार I'm Ayush <img 
 
 </em></p>
 
@@ -10,7 +10,7 @@ const AboutMe = {
     pronouns: "he" | "him",
     location: "भारत | INDIA",
     role: "Backend Developer for now",
-    askMeAbout: ["development", "spiritual", "agriculture", "music",  "gaming"],
+    askMeAbout: ["development", "spiritual",  "gaming"],
     currentFocus: "Schooling But With Coding",
     funFact: "One Of The Developer Who Don't Drink Coffee",
     portfolio: "On the way",
@@ -67,22 +67,12 @@ const AboutMe = {
 </div>
 <div align="center">
 
-# Current Philosophy
-
-</div>
-
-<p align="center">
-Find something popular, Copy it, Slap better things on it.
-</p>
 
 <h3 align="center">Reach Me On Discord</h3>
 
 <p align="center">
     <a href="https://discord.gg/HjnjsdSUWK" target="_blank">
         <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1051806381461745664?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
-    </a>
-    <a href="https://discord.gg/HjnjsdSUWK" target="_blank">
-        <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/773366371919593503?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
     </a>
 </p>
 
