@@ -61,7 +61,7 @@ const AboutMe = {
 	
   | _**Github Stats**_ | _**Top Languages**_ |
   | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=grdAyush&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=dark"/> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=grdAyush&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
 
 
 </div>
