@@ -10,7 +10,7 @@ const AboutMe = {
     pronouns: "he" | "him",
     location: "भारत | INDIA",
     role: "Backend Developer for now",
-    askMeAbout: ["development", "spiritual",  "gaming"],
+    askMeAbout: ["development",  "gaming"],
     currentFocus: "Schooling But With Coding",
     funFact: "One Of The Developer Who Don't Drink Coffee",
     portfolio: "On the way",
